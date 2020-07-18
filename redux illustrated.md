@@ -1,4 +1,39 @@
-<hr>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>redux illustrated</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#redux-illustrated-in-a-react-app">Redux Illustrated in a React app</a>
+<ul>
+<li></li>
+<li><a href="#what-are-we-building">What are we building?</a></li>
+<li><a href="#why-are-we-building-such-a-weird-house">Why are we building such a weird house?</a></li>
+<li><a href="#memoization">Memoization</a></li>
+<li><a href="#and-then-comes-redux">And then comes Redux</a></li>
+<li><a href="#adding-redux-and-react-redux">Adding Redux and React-Redux</a></li>
+<li><a href="#last-tweak-for-efficiency">Last tweak for efficiency</a></li>
+<li><a href="#a-few-last-words">A few last words</a></li>
+<li><a href="#links-to-code">Links to Code</a></li>
+<li><a href="#follow-me">Follow me</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <hr>
 <hr>
 <hr>
 <hr>
@@ -299,3 +334,8 @@ Happy coding !</p>
 <li><a href="https://codepen.io/gitsushi/">codepen</a></li>
 </ul>
 
+    </div>
+  </div>
+</body>
+
+</html>
