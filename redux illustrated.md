@@ -1,8 +1,5 @@
----
-
-
----
-
+<hr>
+<hr>
 <hr>
 <hr>
 <h1 id="redux-illustrated-in-a-react-app">Redux Illustrated in a React app</h1>
@@ -302,6 +299,3 @@ Happy coding !</p>
 <li><a href="https://codepen.io/gitsushi/">codepen</a></li>
 </ul>
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTQyOTAzOV19
--->
