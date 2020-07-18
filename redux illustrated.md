@@ -343,16 +343,16 @@ Happy coding !
 
 ## Links to Code
 
-[The react only version](https://codesandbox.io/s/redux-illustrated-react-only-version-rgcrs?file=/src/Home.js)
-[The react.memo version](https://codesandbox.io/s/redux-illustrated-memo-version-oe18j?file=/src/Home.js)
-[The redux version](https://codesandbox.io/s/redux-illustrated-redux-version-l75ld?file=/src/Home.js)
-[The redux version with a selector](https://codesandbox.io/s/redux-illustrated-redux-version-with-selector-f9sgw?file=/src/Lamp.js)
+- [The react only version](https://codesandbox.io/s/redux-illustrated-react-only-version-rgcrs?file=/src/Home.js)
+- [The react.memo version](https://codesandbox.io/s/redux-illustrated-memo-version-oe18j?file=/src/Home.js)
+- [The redux version](https://codesandbox.io/s/redux-illustrated-redux-version-l75ld?file=/src/Home.js)
+- [The redux version with a selector](https://codesandbox.io/s/redux-illustrated-redux-version-with-selector-f9sgw?file=/src/Lamp.js)
 
 ## Follow me
 
-[twitter](https://twitter.com/lossushi)
-[github](https://github.com/gitSushi)
-[codepen](https://codepen.io/gitsushi/)
+- [twitter](https://twitter.com/lossushi)
+- [github](https://github.com/gitSushi)
+- [codepen](https://codepen.io/gitsushi/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NzEwNzE4XX0=
+eyJoaXN0b3J5IjpbNzkxMjc2NDY1LDcwODcxMDcxOF19
 -->
